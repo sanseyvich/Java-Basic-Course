@@ -1,8 +1,8 @@
-package ua.artcode.week2.obj;
+package ua.artcode.oop.week2.obj;
 
-import ua.artcode.company.model.Coder;
+/*import ua.artcode.company.model.Coder;
 import ua.artcode.company.model.Tester;
-import ua.artcode.task.model.Student;
+import ua.artcode.task.model.Student;*/
 
 /**
  * Created by serhii on 27.03.16.
@@ -10,7 +10,7 @@ import ua.artcode.task.model.Student;
 public class TestObject {
 
     public static void main(String[] args) {
-        Coder coder = new Coder();
+/*        Coder coder = new Coder();
 
         Object obj = coder;
 
@@ -18,7 +18,7 @@ public class TestObject {
 
         testObj(new TestObject());
 
-        System.out.println(ref2);
+        System.out.println(ref2);*/
 
 
 
@@ -27,5 +27,6 @@ public class TestObject {
 
     public static void testObj(Object in){
         System.out.println(in);
+
     }
 }

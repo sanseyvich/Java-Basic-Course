@@ -1,4 +1,4 @@
-package ua.artcode.week2.interf;
+package ua.artcode.oop.week2.interf;
 
 /**
  * Created by serhii on 27.03.16.
